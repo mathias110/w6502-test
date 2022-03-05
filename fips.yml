@@ -1,0 +1,13 @@
+#
+# w65c02-test
+#
+---
+imports:
+   w65c02:
+       git: https://github.com/mathias110/w65c02.git
+       branch: master
+#   run:
+#       TARGET-NAME:
+#           cwd:    WORKING DIRECTORY FOR 'fips run target'
+#       ...
+
