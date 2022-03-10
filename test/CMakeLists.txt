@@ -6,7 +6,8 @@ fips_begin_app(w65c02-tests cmdline)
         utest.h
         w65c02.c
         w65c02_test.c 
-        w65c02_real.c 
+        w65c02_real.c
+        w65c02dasm_test.c 
     )
 fips_end_app()
 
